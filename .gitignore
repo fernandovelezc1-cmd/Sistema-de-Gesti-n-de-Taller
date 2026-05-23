@@ -1,0 +1,29 @@
+# ── Código fuente (protegido) ──────────────────────────────────────────────
+app/
+DoctorMotorss.py
+DoctorMotorss.spec
+Iniciar DoctorMotorss.bat
+BUILD.bat
+installer.iss
+
+# ── Artefactos de compilación ──────────────────────────────────────────────
+build/
+dist/
+installer_output/
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Datos de usuario ───────────────────────────────────────────────────────
+data/
+receipts/
+
+# ── Entorno Python ─────────────────────────────────────────────────────────
+.venv/
+venv/
+*.env
+
+# ── Sistema ────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
